@@ -1,3 +1,5 @@
 Hi this is Isha!!
-
+Check my data:
 Hostname: USTXPLL08750
+Patch update: KB5066793
+SSN-834-35-7654
